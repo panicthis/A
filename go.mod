@@ -2,4 +2,4 @@ module github.com/panicthis/A
 
 go 1.16
 
-require github.com/panicthis/C v1.1.0
+require github.com/panicthis/C v1.3.0
